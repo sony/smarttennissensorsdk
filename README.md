@@ -1,4 +1,5 @@
-Improve sport performance with the Smart Tennis Sensor SDK
+Develop apps for Smart Tennis Sensor
 
-The Smart Tennis Sensor plugs into the end of your tennis racket and allows you to gather a range of data for every shot you make during the play. With the SDK, you get the possibility to develop your own customized tennis app for analyzing, presenting and sharing this data in real-time. There are also white papers on how to extract the data using the Smart Tennis Sensor app.
+The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time.
 
+https://developer.sony.com/develop/smart-tennis-sensor/

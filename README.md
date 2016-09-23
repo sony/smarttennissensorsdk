@@ -7,6 +7,9 @@ https://developer.sony.com/develop/smart-tennis-sensor/
 This repository contains the Javadocs of the apis offerred in the SDK as well as the developers guide. Upon signing up at the above url, one of the artifacts you will receive is the Host App apk which will be required for the SimpleSampleApp to talk to the Smart Tennis Sensor.  
 
 
+
+
+
 ##License
  Apache License
                            Version 2.0, January 2004
